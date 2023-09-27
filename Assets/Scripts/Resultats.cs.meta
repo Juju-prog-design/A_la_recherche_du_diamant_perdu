@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8d799fdd493d984394e38756211c7bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - infosJoueur: {instanceID: 0}
+  - nomJoueur: {instanceID: 0}
+  - points: {instanceID: 0}
+  - ennemis: {instanceID: 0}
+  - temps: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
