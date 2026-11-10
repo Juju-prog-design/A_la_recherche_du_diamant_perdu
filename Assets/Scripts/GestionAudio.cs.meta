@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9217ba1c669c9346b60b66352e065f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {instanceID: 0}
+  - sonFxTest: {instanceID: 0}
+  - SliderMusique: {instanceID: 0}
+  - SliderEffets: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

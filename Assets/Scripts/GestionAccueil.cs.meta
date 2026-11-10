@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b902819c79b29d4eb195eb295ffff7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nomJ: {instanceID: 0}
+  - infosJoueur: {instanceID: 0}
+  - gScene: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
