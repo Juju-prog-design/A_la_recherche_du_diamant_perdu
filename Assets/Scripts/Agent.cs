@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
+
 public class Agent : MonoBehaviour
 {
     // Composante "NavMeshAgent" des ennemis et leur cible (le perso)
