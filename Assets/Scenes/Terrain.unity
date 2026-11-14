@@ -37515,10 +37515,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 355339101}
     - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-      propertyPath: infosPerso
-      value: 
-      objectReference: {fileID: 11400000, guid: 9a9c0e47a28736f4588511ab50aad717, type: 2}
-    - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
       propertyPath: PanneauBois
       value: 
       objectReference: {fileID: 0}
@@ -37567,14 +37563,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 963194225}
     - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-      propertyPath: vitesseCourse
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-      propertyPath: vitesseMarche
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
       propertyPath: panneauLimites
       value: 
       objectReference: {fileID: 1612031374}
@@ -37582,14 +37570,6 @@ PrefabInstance:
       propertyPath: panneauOptions
       value: 
       objectReference: {fileID: 1293304862}
-    - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-      propertyPath: layerSol.m_Bits
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4157327942036992109, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-      propertyPath: cibleCinemachine
-      value: 
-      objectReference: {fileID: 4157327941636215646}
     - target: {fileID: 4157327942036992110, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
       propertyPath: pause
       value: 0
@@ -78765,11 +78745,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2168783280686147983}
   m_Mesh: {fileID: -3756878069691229331, guid: e499a2ae50db3a54fb4fb01489a9db05, type: 3}
---- !u!1 &4157327941636215646 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4157327942405458713, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
-  m_PrefabInstance: {fileID: 1038768199}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4157327941636215647 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4157327942405458712, guid: 36715654150e5cc47a5e7bddd0d04f70, type: 3}
